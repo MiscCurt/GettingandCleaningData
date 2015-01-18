@@ -1,8 +1,9 @@
 ## Data Dictionary
 
 <ol>
-<li><b>subject</b>
-	Participant identifier</li>
+<li><b>subject</b> 
+	Participant identifier</li>  
+	  
 <li><b>activityName</b>
 	Name of activity performed</li>
 <li><b>timeSignalForMeanOfXaxisBodyAcceleration</b>
