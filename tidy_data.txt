@@ -1,4 +1,4 @@
-"subject" "activityName" "domain" "measure" "Mean" "sd"
+"subject" "activityName" "domain" "feature" "Mean" "sd"
 1 "LAYING" "frequency" "BodyAccelerationXaxis" -0.9390990524 -0.9244374346
 1 "LAYING" "frequency" "BodyAccelerationYaxis" -0.86706520518 -0.8336255561
 1 "LAYING" "frequency" "BodyAccelerationZaxis" -0.8826668762 -0.81289155944
