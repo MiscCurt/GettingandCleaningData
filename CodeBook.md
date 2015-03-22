@@ -1,7 +1,7 @@
-subject
+###subject
 	Numeric identification for study participants, from 1 to 30
 
-activityName
+###activityName
 	Activity type being measured
 		<ol>
 		<li>LAYING</li>
@@ -12,14 +12,14 @@ activityName
 		<li>WALKING_UPSTAIRS</li>
 		</ol>
 	
-domain
+###domain
 	domain type
 		<ol>
 		<li>time</li>
 		<li>frequency</li>
 		</ol>
 
-feature
+###feature
 	Data items processed and sampled from Accelerometer and Gyroscope
 	sensor signals
 			<ol>
@@ -65,8 +65,8 @@ feature
             <li>GyroscopeAngularVelocityJerkMagnitude</li>
 			</ol>
 
-Mean
+###Mean
 	Average of the mean values present for each feature measurement
 
-sd
+###sd
 	Average of the standard deviation values present for each feature measurement
